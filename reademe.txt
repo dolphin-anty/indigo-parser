@@ -1,0 +1,11 @@
+Step_1 . First of all you need to download pycharm and install python
+Step_2 . Go to config.py
+Step_3 . Replace <YOUR INDIGO TOKEN> to token from Indigo settings
+Step_4 . Replace <YOUR INDIGO PORT> to port from Indigo settings
+Step_5 . Replace <DOLPHIN LOGIN> to login for Dolphin Anty
+Step_6 . Replace <DOLPHIN PASSWORD> to password for Dolphin Anty
+
+Step_7 . Open terminal in pycharm and install requests              << pip3 install requests  >>
+Step_8 . By the same install termcolor                              << pip3 install termcolor >>
+
+Final step . run main.py (right click on main.py)
